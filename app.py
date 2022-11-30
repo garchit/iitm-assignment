@@ -43,5 +43,5 @@ def main():
   
   st.success('The output is {}'.format(result))
   
-if _name=='__main_':
+if __name__=='__main__':
   main()
